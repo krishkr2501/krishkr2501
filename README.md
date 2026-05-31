@@ -10,7 +10,7 @@
 
 ---
 
-I'm a data science student who loves turning messy data into insights that actually matter. When I'm not debugging pandas DataFrames at 2 AM, I'm building projects that solve real problems.
+I'm a data science student who loves turning messy data into insights that actually matter. I love to enhance my problem solving skills with DSA using JAVA.
 
 ## 🛠 What I Work With
 
