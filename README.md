@@ -59,7 +59,7 @@ I'm a data science student who loves turning messy data into insights that actua
 
 ## 💼 What I'm Looking For
 
-Data science internships, freelance projects, or collaboration opportunities where I can:
+ Internships, freelance projects, Full time job role,or collaboration opportunities where I can:
 - Analyze data that drives decisions
 - Build ML models that work in production
 - Work with teams that value learning and shipping
@@ -68,8 +68,8 @@ Data science internships, freelance projects, or collaboration opportunities whe
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/krishkr2501)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumakrish2407@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 </div>
