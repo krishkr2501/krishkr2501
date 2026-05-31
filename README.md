@@ -26,8 +26,8 @@ I'm a data science student who loves turning messy data into insights that actua
 
 ## 🚀 Featured Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishkr2501&repo=PROJECT1&theme=radical)](https://github.com/krishkr2501/PROJECT1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishkr2501&repo=PROJECT2&theme=radical)](https://github.com/krishkr2501/PROJECT2)
+[![To-Do List](https://github-readme-stats.vercel.app/api/pin/?username=krishkr2501&repo=PROJECT1&theme=radical)](https://github.com/krishkr2501/To-Do-List)
+[![Basic Calculator](https://github-readme-stats.vercel.app/api/pin/?username=krishkr2501&repo=PROJECT2&theme=radical)](https://github.com/krishkr2501/Basic-Calculator)
 
 ## 📊 GitHub Stats
 
